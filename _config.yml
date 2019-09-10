@@ -1,1 +1,22 @@
 theme: jekyll-theme-midnight
+
+<html> 
+<head> 
+  <title>My Bio Page</title>
+</head>
+<body>
+  <h1>Mohammed Emun</h1>
+    <hr size='2' />
+    But I prefer to go by Emun (E-Moon) <br />
+    It's like an "Electric Moon" <br />
+  <h3>About M.E. (Mohammed Emun)</h3> 
+    <hr size='2' />
+    Major: Cognitive Brain Science <br />
+    Minor: Computer Science <br /> 
+    From: Philadelphia (Live 10 min. outside of SouthWest Philly) <br />
+    Something No One Would Expect: I play on the Tufts Quidditch Team <br />
+  <h3>Contact Info</h3>
+    <hr size='2' />
+    IP Address: 2601:18d:4500:cb2:f8b5:aa22:4b24:fe4e <br />
+    Email: mohammed.emun@tufts.edu <br />
+    Phone: 215.730.3630 <br />
